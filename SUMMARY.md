@@ -5,7 +5,7 @@
 * [Frontend Framework I - reactjs](react1.md)
 * [Frontend Framework II - reactjs](react2.md)
 * [Spring Boot framework](spring1.md)
-* [Spring JPA](jpa.md)
+* [Object–relational mapping](orm.md)
 * [Rest API backend I - Spring Boot](spring2.md)
 * [Rest API backend II - Spring Boot](spring3.md)
 * []()
