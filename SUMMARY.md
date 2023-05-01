@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Softwarearkitektur](README.md)
--------------------------------------------------------------------------
+<hr>
 * [Introduktion til 3. semester SWA](introduktion-til-3.-semester-swa.md)
 * [2]()
 * [2]()
